@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# 构建产物与游戏素材（不入库）
+*.apk
+build/
+dist/
+
+# 模板壳（含 YUZUSOFT 资产，请勿公开分发）
+直装包模板壳.apk
+template/
+
+# 系统
+Thumbs.db
+.DS_Store
