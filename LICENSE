@@ -20,8 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
-额外说明：本仓库不含任何游戏素材。若 Release 附件中的"模板壳 APK"包含
-特定游戏的资产，该部分版权归对应游戏权利方（如 YUZUSOFT）所有，
-仅限拥有正版的用户本地使用，不适用上述 MIT 许可。

@@ -7,7 +7,7 @@ __pycache__/
 build/
 dist/
 
-# 模板壳（含 YUZUSOFT 资产，请勿公开分发）
+# 模板壳（不入库，见 Release 附件）
 直装包模板壳.apk
 template/
 
